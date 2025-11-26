@@ -201,26 +201,3 @@ Password: doctor123
 * Users Panel (Admin only)
 
 ---
-
-## 🧑‍💻 Developer Info
-
-**Author:** *Mayur Kamane*
-**Project Type:** Major Project – Python GUI
-**Suitable For:**
-
-* Final Year Submission
-* Resume Projects
-* Python GUI Portfolio
-
----
-
-If you want, I can also generate:
-
-✅ **Project Report (40+ pages)**
-✅ **Abstract**
-✅ **ER Diagram**
-✅ **UML Diagrams**
-✅ **IEEE Format Documentation**
-✅ **PowerPoint Presentation**
-
-Just tell me **"Create project report"** and I’ll generate everything!
